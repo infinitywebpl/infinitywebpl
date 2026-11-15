@@ -1,16 +1,16 @@
-## Hi there 👋
+## InfinityWeb
 
-<!--
-**infinitywebpl/infinitywebpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moduły i narzędzia do PrestaShop, a do tego PHP, serwery Linux i Home Assistant.
+Sklepy i strony internetowe robię od początku XXI wieku.
 
-Here are some ideas to get you started:
+- 🌐 [infinityweb.pl](https://www.infinityweb.pl): blog z notatkami z pracy
+- 🛒 [Moduły PrestaShop na zamówienie](https://www.infinityweb.pl/oferta/moduly-prestashop)
+- ✉️ biuro@infinityweb.pl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Repozytoria
+
+| repo | co robi |
+|---|---|
+| [infinitycustomcodes](https://github.com/infinitywebpl/infinitycustomcodes) | Moduł PrestaShop 8.1+ (demo): wstawia własne kody HTML/JS (GTM, piksele, czaty) bez edycji motywu |
+
+Pełne wersje modułów i wdrożenia: [infinityweb.pl/oferta](https://www.infinityweb.pl/oferta).
